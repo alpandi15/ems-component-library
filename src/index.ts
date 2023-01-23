@@ -1,2 +1,5 @@
-import './styles/base.css'
-export * from './components'
+import Console from './console'
+
+export {
+    Console
+}
